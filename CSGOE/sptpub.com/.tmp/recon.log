@@ -1,0 +1,513 @@
+[1;32m[SUCCESS][0m Starting Bug Bounty Reconnaissance: sptpub.com
+
+[+] World [31mOFF[0m,Terminal [32mON [0m
+ █████                             █████           █████
+░░███                             ░░███           ░░███
+ ░███████  █████ ████  ███████  ███████   ██████  ███████    ██████  █████ █████  ██████
+ ░███░░███░░███ ░███  ███░░███ ███░░███  ███░░███░░░███░    ███░░███░░███ ░░███  ███░░███
+ ░███ ░███ ░███ ░███ ░███ ░███░███ ░███ ░███ ░███  ░███    ░███████  ░░░█████░  ░███████
+ ░███ ░███ ░███ ░███ ░███ ░███░███ ░███ ░███ ░███  ░███ ███░███░░░    ███░░░███ ░███░░░
+ ████████  ░░████████░░███████░░████████░░██████   ░░█████ ░░██████  █████ █████░░██████
+░░░░░░░░    ░░░░░░░░  ░░░░░███ ░░░░░░░░  ░░░░░░     ░░░░░   ░░░░░░  ░░░░░ ░░░░░  ░░░░░░
+                      ███ ░███
+                     ░░██████
+                      ░░░░░░                                                             
+[+] Make [31mCritical[0m great again
+[1;34m[INFO][0m Starting Intel Gathering: sptpub.com
+[36m
+
+ ** ****     ** ********** ******** **      
+/**/**/**   /**/////**/// /**///// /**      
+/**/**//**  /**    /**    /**      /**      
+/**/** //** /**    /**    /******* /**      
+/**/**  //**/**    /**    /**////  /**      
+/**/**   //****    /**    /**      /**      
+/**/**    //***    /**    /********/********
+// //      ///     //     //////// //////// 
+
+[0m
+[1;31m[ERROR][0m scopes file does not exist inside CSGOE/INTEL
+[1;32m[SUCCESS][0m Intel Gathering Completed: sptpub.com
+[1;34m[INFO][0m Starting OSINT Gathering: sptpub.com
+[36m
+
+       *******    ******** ** ****     ** **********
+  **/////**  **////// /**/**/**   /**/////**/// 
+ **     //**/**       /**/**//**  /**    /**    
+/**      /**/*********/**/** //** /**    /**    
+/**      /**////////**/**/**  //**/**    /**    
+//**     **        /**/**/**   //****    /**    
+ //*******   ******** /**/**    //***    /**    
+  ///////   ////////  // //      ///     //     
+
+[0m
+[1;34m[INFO][0m Processing target Dir: CSGOE
+[1;31m[ERROR][0m Directory found, but wildcard.scopes does not exist inside CSGOE
+[1;32m[SUCCESS][0m OSINT Gathering Completed: sptpub.com
+[1;34m[INFO][0m Starting Subdomain Enumeration: sptpub.com
+[1;34m[INFO][0m Starting Passive Subdomain enumeration: sptpub.com
+[1;34m[INFO][0m Starting Passive Subdomain enumeration: sptpub.com
+[1;34m[INFO][0m Passive Subdomain Enumeration: haktrailsfree 
+[1;34m[INFO][0m Passive Subdomain Enumeration: haktrailsfree 
+[1;32m[SUCCESS][0m Starting Bug Bounty Reconnaissance: sptpub.com
+
+[+] World [31mOFF[0m,Terminal [32mON [0m
+ █████                             █████           █████
+░░███                             ░░███           ░░███
+ ░███████  █████ ████  ███████  ███████   ██████  ███████    ██████  █████ █████  ██████
+ ░███░░███░░███ ░███  ███░░███ ███░░███  ███░░███░░░███░    ███░░███░░███ ░░███  ███░░███
+ ░███ ░███ ░███ ░███ ░███ ░███░███ ░███ ░███ ░███  ░███    ░███████  ░░░█████░  ░███████
+ ░███ ░███ ░███ ░███ ░███ ░███░███ ░███ ░███ ░███  ░███ ███░███░░░    ███░░░███ ░███░░░
+ ████████  ░░████████░░███████░░████████░░██████   ░░█████ ░░██████  █████ █████░░██████
+░░░░░░░░    ░░░░░░░░  ░░░░░███ ░░░░░░░░  ░░░░░░     ░░░░░   ░░░░░░  ░░░░░ ░░░░░  ░░░░░░
+                      ███ ░███
+                     ░░██████
+                      ░░░░░░                                                             
+[+] Make [31mCritical[0m great again
+[1;34m[INFO][0m Starting Intel Gathering: sptpub.com
+[36m
+
+ ** ****     ** ********** ******** **      
+/**/**/**   /**/////**/// /**///// /**      
+/**/**//**  /**    /**    /**      /**      
+/**/** //** /**    /**    /******* /**      
+/**/**  //**/**    /**    /**////  /**      
+/**/**   //****    /**    /**      /**      
+/**/**    //***    /**    /********/********
+// //      ///     //     //////// //////// 
+
+[0m
+[1;32m[SUCCESS][0m Found scopes file: CSGOE/INTEL/../wildcard.scopes
+[1;34m[INFO][0m Reading domains from file: CSGOE/INTEL/../wildcard.scopes
+[1;32m[SUCCESS][0m Domain:    SPTPUB.COM
+[1;32m[SUCCESS][0m Registrar: GoDaddy.com, LLC
+[1;32m[SUCCESS][0m Company:   SIA Damara Technologies<br><strong>Country:</strong> Latvia
+--------------------------------------------------
+[1;34m[INFO][0m  Reverse WHOIS lookup on whoxy.com for: sptpub.com
+[1;34m[INFO][0m Reverse WHOIS lookup on ViewDNS.info for Company: SIA Damara Technologies<br><strong>Country:</strong> Latvia
+[1;32m[SUCCESS][0m Found 100 unique domains.
+[1;32m[SUCCESS][0m Saved reverse whois results to: CSGOE/INTEL/reverse.whois
+[1;34m[INFO][0m Resolving favicon for: sptpub.com
+[1;34m[*] Gathering Intel for: sptpub.com...[0m
+    > SecurityTrails... [1;32mFOUND 2 IPs[0m
+    > Urlscan... [1;33m0 Results[0m
+    > Shodan... [1;33m0 Results[0m
+    > VirusTotal... [1;32mFOUND 2 IPs[0m
+[1;30m    > Total Unique IPs: . Starting Turbo Analysis...[0m
+
+[1;32m[+] Scanning Finished : Cleaning battlefield[0m
+[1;32m[SUCCESS][0m Intel Gathering Completed: sptpub.com
+[1;34m[INFO][0m Starting OSINT Gathering: sptpub.com
+[36m
+
+       *******    ******** ** ****     ** **********
+  **/////**  **////// /**/**/**   /**/////**/// 
+ **     //**/**       /**/**//**  /**    /**    
+/**      /**/*********/**/** //** /**    /**    
+/**      /**////////**/**/**  //**/**    /**    
+//**     **        /**/**/**   //****    /**    
+ //*******   ******** /**/**    //***    /**    
+  ///////   ////////  // //      ///     //     
+
+[0m
+[1;34m[INFO][0m Processing target Dir: CSGOE
+[1;32m[SUCCESS][0m Found wildcard.scopes found inside the directory!
+[1;34m[INFO][0m Reading domains from file: CSGOE/wildcard.scopes
+[35m------------------------------------------------------[0m
+[1;34m[INFO][0m Targeting: sptpub.com
+[1;34m[INFO][0m Starting Email to Github Username enumeration...
+[33m[*] Searching emails for sptpub.com...(B[m
+[33m[*] Searching GitHub for profiles based on emails...(B[m
+[1;34m[INFO][0m Starting Github Username Prefix enumeration...
+[1;33m[~] Checking: sptpub[0m[1;33m[~] Checking: sptpubcom[0m[1;33m[~] Checking: sptpub-com[0m[1;33m[~] Checking: sptpub-inc[0m[1;33m[~] Checking: sptpub-org[0m[1;33m[~] Checking: sptpub-tech[0m[1;33m[~] Checking: sptpub-labs[0m[1;33m[~] Checking: sptpub-corp[0m[1;33m[~] Checking: sptpub0x01[0m[1;33m[~] Checking: sptpubio[0m[1;33m[~] Checking: sptpubapp[0m[1;33m[~] Checking: sptpubcloud[0m[1;33m[~] Checking: sptpub-Cash[0m[1;33m[~] Checking: sptpub-protocol[0m[1;33m[~] Checking: sptpub-dao[0m[1;33m[~] Checking: sptpub-pool[0m[1;33m[~] Checking: sptpub-network[0m[1;33m[~] Checking: sptpub-fi[0m[1;33m[~] Checking: sptpubLabs[0m[1;33m[~] Checking: sptpubInc[0m[1;33m[~] Checking: sptpubHQ[0m[1;33m[~] Checking: sptpubOfficial[0m[1;33m[~] Checking: sptpubSecurity[0m[1;33m[~] Checking: sptpub-security[0m[1;33m[~] Checking: sptpub-dev[0m[1;33m[~] Checking: sptpubDev[0m[1;33m[~] Checking: sptpub-team[0m[1;33m[~] Checking: sptpubTeam[0m[1;33m[~] Checking: sptpub-studio[0m[1;33m[~] Checking: sptpubStudio[0m[1;33m[~] Checking: sptpub-solutions[0m[1;33m[~] Checking: sptpubSolutions[0m[1;33m[~] Checking: sptpub-services[0m[1;33m[~] Checking: sptpubServices[0m[1;33m[~] Checking: sptpub-foundation[0m[1;33m[~] Checking: sptpubFoundation[0m[1;32m[SUCCESS][0m Starting Bug Bounty Reconnaissance: sptpub.com
+
+[+] World [31mOFF[0m,Terminal [32mON [0m
+ █████                             █████           █████
+░░███                             ░░███           ░░███
+ ░███████  █████ ████  ███████  ███████   ██████  ███████    ██████  █████ █████  ██████
+ ░███░░███░░███ ░███  ███░░███ ███░░███  ███░░███░░░███░    ███░░███░░███ ░░███  ███░░███
+ ░███ ░███ ░███ ░███ ░███ ░███░███ ░███ ░███ ░███  ░███    ░███████  ░░░█████░  ░███████
+ ░███ ░███ ░███ ░███ ░███ ░███░███ ░███ ░███ ░███  ░███ ███░███░░░    ███░░░███ ░███░░░
+ ████████  ░░████████░░███████░░████████░░██████   ░░█████ ░░██████  █████ █████░░██████
+░░░░░░░░    ░░░░░░░░  ░░░░░███ ░░░░░░░░  ░░░░░░     ░░░░░   ░░░░░░  ░░░░░ ░░░░░  ░░░░░░
+                      ███ ░███
+                     ░░██████
+                      ░░░░░░                                                             
+[+] Make [31mCritical[0m great again
+[1;34m[INFO][0m Starting Intel Gathering: sptpub.com
+[36m
+
+ ** ****     ** ********** ******** **      
+/**/**/**   /**/////**/// /**///// /**      
+/**/**//**  /**    /**    /**      /**      
+/**/** //** /**    /**    /******* /**      
+/**/**  //**/**    /**    /**////  /**      
+/**/**   //****    /**    /**      /**      
+/**/**    //***    /**    /********/********
+// //      ///     //     //////// //////// 
+
+[0m
+[1;31m[ERROR][0m scopes file does not exist inside CSGOE/sptpub.com/INTEL/../wildcard.scopes
+[1;32m[SUCCESS][0m Intel Gathering Completed: sptpub.com
+[1;34m[INFO][0m Starting OSINT Gathering: sptpub.com
+[36m
+
+       *******    ******** ** ****     ** **********
+  **/////**  **////// /**/**/**   /**/////**/// 
+ **     //**/**       /**/**//**  /**    /**    
+/**      /**/*********/**/** //** /**    /**    
+/**      /**////////**/**/**  //**/**    /**    
+//**     **        /**/**/**   //****    /**    
+ //*******   ******** /**/**    //***    /**    
+  ///////   ////////  // //      ///     //     
+
+[0m
+[1;34m[INFO][0m Processing target Dir: CSGOE
+[1;32m[SUCCESS][0m Found wildcard.scopes found inside the directory!
+[1;34m[INFO][0m Reading domains from file: CSGOE/wildcard.scopes
+[35m------------------------------------------------------[0m
+[1;34m[INFO][0m Targeting: sptpub.com
+[1;34m[INFO][0m Starting Email to Github Username enumeration...
+[33m[*] Searching emails for sptpub.com...(B[m
+[33m[*] Searching GitHub for profiles based on emails...(B[m
+[1;34m[INFO][0m Starting Github Username Prefix enumeration...
+[1;33m[~] Checking: sptpub[0m[1;33m[~] Checking: sptpubcom[0m[1;33m[~] Checking: sptpub-com[0m[1;33m[~] Checking: sptpub-inc[0m[1;33m[~] Checking: sptpub-org[0m[1;33m[~] Checking: sptpub-tech[0m[1;33m[~] Checking: sptpub-labs[0m[1;33m[~] Checking: sptpub-corp[0m[1;33m[~] Checking: sptpub0x01[0m[1;33m[~] Checking: sptpubio[0m[1;33m[~] Checking: sptpubapp[0m[1;33m[~] Checking: sptpubcloud[0m[1;33m[~] Checking: sptpub-Cash[0m[1;33m[~] Checking: sptpub-protocol[0m[1;33m[~] Checking: sptpub-dao[0m[1;33m[~] Checking: sptpub-pool[0m[1;33m[~] Checking: sptpub-network[0m[1;33m[~] Checking: sptpub-fi[0m[1;33m[~] Checking: sptpubLabs[0m[1;33m[~] Checking: sptpubInc[0m[1;33m[~] Checking: sptpubHQ[0m[1;33m[~] Checking: sptpubOfficial[0m[1;33m[~] Checking: sptpubSecurity[0m[1;33m[~] Checking: sptpub-security[0m[1;33m[~] Checking: sptpub-dev[0m[1;33m[~] Checking: sptpubDev[0m[1;33m[~] Checking: sptpub-team[0m[1;33m[~] Checking: sptpubTeam[0m[1;33m[~] Checking: sptpub-studio[0m[1;33m[~] Checking: sptpubStudio[0m[1;33m[~] Checking: sptpub-solutions[0m[1;33m[~] Checking: sptpubSolutions[0m[1;33m[~] Checking: sptpub-services[0m[1;33m[~] Checking: sptpubServices[0m[1;33m[~] Checking: sptpub-foundation[0m[1;33m[~] Checking: sptpubFoundation[0m[1;33m[~] Checking: sptpub-project[0m[1;33m[~] Checking: sptpubProject[0m[1;33m[~] Checking: sptpub-community[0m[1;33m[~] Checking: sptpubCommunity[0m[1;33m[~] Checking: sptpub-group[0m[1;33m[~] Checking: sptpubGroup[0m[1;33m[~] Checking: sptpub-ventures[0m[1;33m[~] Checking: sptpubVentures[0m[1;33m[~] Checking: sptpub-capital[0m[1;33m[~] Checking: sptpubCapital[0m[1;33m[~] Checking: sptpub-partners[0m[1;33m[~] Checking: sptpubPartners[0m[1;33m[~] Checking: sptpub-global[0m[1;33m[~] Checking: sptpubGlobal[0m[1;33m[~] Checking: sptpub-intl[0m[1;33m[~] Checking: sptpubIntl[0m[1;33m[~] Checking: sptpub-international[0m[1;33m[~] Checking: sptpubInternational[0m[1;33m[~] Checking: sptpub-crypto[0m[1;33m[~] Checking: sptpubCrypto[0m[1;33m[~] Checking: sptpub-finance[0m[1;33m[~] Checking: sptpubFinance[0m[1;33m[~] Checking: sptpub-pay[0m[1;33m[~] Checking: sptpubPay[0m[1;33m[~] Checking: sptpub-wallet[0m[1;33m[~] Checking: sptpubWallet[0m[1;33m[~] Checking: sptpub-data[0m[1;33m[~] Checking: sptpubData[0m[1;33m[~] Checking: sptpub-web[0m[1;33m[~] Checking: sptpubWeb[0m[1;33m[~] Checking: sptpub-mobile[0m[1;33m[~] Checking: sptpubMobile[0m[1;33m[~] Checking: sptpub-platform[0m[1;33m[~] Checking: sptpubPlatform[0m[1;33m[~] Checking: sptpub-infrastructure[0m[1;33m[~] Checking: sptpubInfrastructure[0m[1;33m[~] Checking: sptpub-infra[0m[1;33m[~] Checking: sptpubInfra[0m
+[1;33m[~] Checking: sptpub-capital[0m[1;33m[~] Checking: sptpub-chain[0m[1;33m[~] Checking: sptpub-community[0m[1;33m[~] Checking: sptpub-consulting[0m[1;33m[~] Checking: sptpub-crypto[0m[1;33m[~] Checking: sptpub-data[0m[1;33m[~] Checking: sptpub-design[0m[1;33m[~] Checking: sptpub-exchange[0m[1;33m[~] Checking: sptpub-finance[0m[1;33m[~] Checking: sptpub-foundation[0m[1;33m[~] Checking: sptpub-global[0m[1;33m[~] Checking: sptpub-group[0m[1;33m[~] Checking: sptpub-holdings[0m[1;33m[~] Checking: sptpub-infra[0m[1;33m[~] Checking: sptpub-international[0m[1;33m[~] Checking: sptpub-intl[0m[1;33m[~] Checking: sptpub-mobile[0m[1;33m[~] Checking: sptpub-open-source[0m[1;33m[~] Checking: sptpub-oss[0m[1;33m[~] Checking: sptpub-partners[0m[1;33m[~] Checking: sptpub-pay[0m[1;33m[~] Checking: sptpub-platform[0m[1;33m[~] Checking: sptpub-project[0m[1;33m[~] Checking: sptpub-services[0m[1;33m[~] Checking: sptpub-software[0m[1;33m[~] Checking: sptpub-solutions[0m[1;33m[~] Checking: sptpub-studio[0m[1;33m[~] Checking: sptpub-sys[0m[1;33m[~] Checking: sptpub-systems[0m[1;33m[~] Checking: sptpub-tools[0m[1;33m[~] Checking: sptpub-ventures[0m[1;33m[~] Checking: sptpub-wallet[0m[1;33m[~] Checking: sptpub-web[0m[1;33m[~] Checking: sptpubcapital[0m[1;33m[~] Checking: sptpubchain[0m[1;33m[~] Checking: sptpubcommunity[0m[1;33m[~] Checking: sptpubconsulting[0m[1;33m[~] Checking: sptpubcrypto[0m[1;33m[~] Checking: sptpubdata[0m[1;33m[~] Checking: sptpubdesign[0m[1;33m[~] Checking: sptpubexchange[0m[1;33m[~] Checking: sptpubfinance[0m[1;33m[~] Checking: sptpubfoundation[0m[1;33m[~] Checking: sptpubglobal[0m[1;33m[~] Checking: sptpubgroup[0m[1;33m[~] Checking: sptpubholdings[0m[1;33m[~] Checking: sptpubinfra[0m[1;33m[~] Checking: sptpubinternational[0m[1;33m[~] Checking: sptpubintl[0m[1;33m[~] Checking: sptpubmobile[0m[1;33m[~] Checking: sptpubopen-source[0m[1;33m[~] Checking: sptpuboss[0m[1;33m[~] Checking: sptpubpartners[0m[1;33m[~] Checking: sptpubpay[0m[1;33m[~] Checking: sptpubplatform[0m[1;33m[~] Checking: sptpubproject[0m[1;33m[~] Checking: sptpubservices[0m[1;33m[~] Checking: sptpubsoftware[0m[1;33m[~] Checking: sptpubsolutions[0m[1;33m[~] Checking: sptpubstudio[0m[1;33m[~] Checking: sptpubsys[0m[1;33m[~] Checking: sptpubsystems[0m[1;33m[~] Checking: sptpubtools[0m[1;33m[~] Checking: sptpubventures[0m[1;33m[~] Checking: sptpubwallet[0m[1;33m[~] Checking: sptpubweb[0m[0;31m[-] No confirmed matches found.[0m
+[1;34m[INFO][0m Checking leaked secrets from Github...
+[1;34m[INFO][0m Running Misconfig Mapper for: sptpub
+[1;32m[SUCCESS][0m Starting Bug Bounty Reconnaissance: sptpub.com
+
+[+] World [31mOFF[0m,Terminal [32mON [0m
+ █████                             █████           █████
+░░███                             ░░███           ░░███
+ ░███████  █████ ████  ███████  ███████   ██████  ███████    ██████  █████ █████  ██████
+ ░███░░███░░███ ░███  ███░░███ ███░░███  ███░░███░░░███░    ███░░███░░███ ░░███  ███░░███
+ ░███ ░███ ░███ ░███ ░███ ░███░███ ░███ ░███ ░███  ░███    ░███████  ░░░█████░  ░███████
+ ░███ ░███ ░███ ░███ ░███ ░███░███ ░███ ░███ ░███  ░███ ███░███░░░    ███░░░███ ░███░░░
+ ████████  ░░████████░░███████░░████████░░██████   ░░█████ ░░██████  █████ █████░░██████
+░░░░░░░░    ░░░░░░░░  ░░░░░███ ░░░░░░░░  ░░░░░░     ░░░░░   ░░░░░░  ░░░░░ ░░░░░  ░░░░░░
+                      ███ ░███
+                     ░░██████
+                      ░░░░░░                                                             
+[+] Make [31mCritical[0m great again
+[1;34m[INFO][0m Starting Intel Gathering: sptpub.com
+[36m
+
+ ** ****     ** ********** ******** **      
+/**/**/**   /**/////**/// /**///// /**      
+/**/**//**  /**    /**    /**      /**      
+/**/** //** /**    /**    /******* /**      
+/**/**  //**/**    /**    /**////  /**      
+/**/**   //****    /**    /**      /**      
+/**/**    //***    /**    /********/********
+// //      ///     //     //////// //////// 
+
+[0m
+[1;31m[ERROR][0m scopes file does not exist inside CSGOE/sptpub.com/INTEL/../wildcard.scopes
+[1;32m[SUCCESS][0m Intel Gathering Completed: sptpub.com
+[1;34m[INFO][0m Starting OSINT Gathering: sptpub.com
+[36m
+
+       *******    ******** ** ****     ** **********
+  **/////**  **////// /**/**/**   /**/////**/// 
+ **     //**/**       /**/**//**  /**    /**    
+/**      /**/*********/**/** //** /**    /**    
+/**      /**////////**/**/**  //**/**    /**    
+//**     **        /**/**/**   //****    /**    
+ //*******   ******** /**/**    //***    /**    
+  ///////   ////////  // //      ///     //     
+
+[0m
+[1;34m[INFO][0m Processing target Dir: CSGOE
+[1;32m[SUCCESS][0m Found wildcard.scopes found inside the directory!
+[1;34m[INFO][0m Reading domains from file: CSGOE/wildcard.scopes
+[35m------------------------------------------------------[0m
+[1;34m[INFO][0m Targeting: sptpub.com
+[1;34m[INFO][0m Starting Email to Github Username enumeration...
+[33m[*] Searching emails for sptpub.com...[m
+[33m[*] Searching GitHub for profiles based on emails...[m
+[1;34m[INFO][0m Starting Github Username Prefix enumeration...
+[1;33m[~] Checking: sptpub[0m[1;33m[~] Checking: sptpubcom[0m[1;33m[~] Checking: sptpub-com[0m[1;33m[~] Checking: sptpub-inc[0m[1;33m[~] Checking: sptpub-org[0m[1;33m[~] Checking: sptpub-tech[0m[1;33m[~] Checking: sptpub-labs[0m[1;32m[SUCCESS][0m Starting Bug Bounty Reconnaissance: sptpub.com
+
+[+] World [31mOFF[0m,Terminal [32mON [0m
+ █████                             █████           █████
+░░███                             ░░███           ░░███
+ ░███████  █████ ████  ███████  ███████   ██████  ███████    ██████  █████ █████  ██████
+ ░███░░███░░███ ░███  ███░░███ ███░░███  ███░░███░░░███░    ███░░███░░███ ░░███  ███░░███
+ ░███ ░███ ░███ ░███ ░███ ░███░███ ░███ ░███ ░███  ░███    ░███████  ░░░█████░  ░███████
+ ░███ ░███ ░███ ░███ ░███ ░███░███ ░███ ░███ ░███  ░███ ███░███░░░    ███░░░███ ░███░░░
+ ████████  ░░████████░░███████░░████████░░██████   ░░█████ ░░██████  █████ █████░░██████
+░░░░░░░░    ░░░░░░░░  ░░░░░███ ░░░░░░░░  ░░░░░░     ░░░░░   ░░░░░░  ░░░░░ ░░░░░  ░░░░░░
+                      ███ ░███
+                     ░░██████
+                      ░░░░░░                                                             
+[+] Make [31mCritical[0m great again
+[1;34m[INFO][0m Starting Intel Gathering: sptpub.com
+[36m
+
+ ** ****     ** ********** ******** **      
+/**/**/**   /**/////**/// /**///// /**      
+/**/**//**  /**    /**    /**      /**      
+/**/** //** /**    /**    /******* /**      
+/**/**  //**/**    /**    /**////  /**      
+/**/**   //****    /**    /**      /**      
+/**/**    //***    /**    /********/********
+// //      ///     //     //////// //////// 
+
+[0m
+[1;32m[SUCCESS][0m Found scopes file: CSGOE/sptpub.com/INTEL/../../wildcard.scopes
+[1;34m[INFO][0m Reading domains from file: CSGOE/sptpub.com/INTEL/../../wildcard.scopes
+[1;32m[SUCCESS][0m Domain:    SPTPUB.COM
+[1;32m[SUCCESS][0m Registrar: GoDaddy.com, LLC
+[1;32m[SUCCESS][0m Company:   SIA Damara Technologies<br><strong>Country:</strong> Latvia
+--------------------------------------------------
+[1;34m[INFO][0m  Reverse WHOIS lookup on whoxy.com for: sptpub.com
+[1;34m[INFO][0m Reverse WHOIS lookup on ViewDNS.info for Company: SIA Damara Technologies<br><strong>Country:</strong> Latvia
+[1;32m[SUCCESS][0m Found 100 unique domains.
+[1;32m[SUCCESS][0m Saved reverse whois results to: CSGOE/sptpub.com/INTEL/reverse.whois
+[1;34m[INFO][0m Resolving favicon for: sptpub.com
+[1;34m[*] Gathering Intel for: sptpub.com...[0m
+    > SecurityTrails... [1;32mFOUND 2 IPs[0m
+    > Urlscan... [1;33m0 Results[0m
+    > Shodan... [1;33m0 Results[0m
+    > VirusTotal... [1;32mFOUND 2 IPs[0m
+[1;30m    > Total Unique IPs: . Starting Turbo Analysis...[0m
+
+[1;32m[+] Scanning Finished : Cleaning battlefield[0m
+[1;32m[SUCCESS][0m Intel Gathering Completed: sptpub.com
+[1;34m[INFO][0m Starting OSINT Gathering: sptpub.com
+[36m
+
+       *******    ******** ** ****     ** **********
+  **/////**  **////// /**/**/**   /**/////**/// 
+ **     //**/**       /**/**//**  /**    /**    
+/**      /**/*********/**/** //** /**    /**    
+/**      /**////////**/**/**  //**/**    /**    
+//**     **        /**/**/**   //****    /**    
+ //*******   ******** /**/**    //***    /**    
+  ///////   ////////  // //      ///     //     
+
+[0m
+[1;34m[INFO][0m Processing target Dir: CSGOE
+[1;32m[SUCCESS][0m Found wildcard.scopes found inside the directory!
+[1;34m[INFO][0m Reading domains from file: CSGOE/wildcard.scopes
+[35m------------------------------------------------------[0m
+[1;34m[INFO][0m Targeting: sptpub.com
+[1;34m[INFO][0m Starting Email to Github Username enumeration...
+[33m[*] Searching emails for sptpub.com...[m
+[33m[*] Searching GitHub for profiles based on emails...[m
+[1;34m[INFO][0m Starting Github Username Prefix enumeration...
+[1;33m[~] Checking: sptpub[0m[1;33m[~] Checking: sptpubcom[0m[1;32m[SUCCESS][0m Starting Bug Bounty Reconnaissance: sptpub.com
+
+[+] World [31mOFF[0m,Terminal [32mON [0m
+ █████                             █████           █████
+░░███                             ░░███           ░░███
+ ░███████  █████ ████  ███████  ███████   ██████  ███████    ██████  █████ █████  ██████
+ ░███░░███░░███ ░███  ███░░███ ███░░███  ███░░███░░░███░    ███░░███░░███ ░░███  ███░░███
+ ░███ ░███ ░███ ░███ ░███ ░███░███ ░███ ░███ ░███  ░███    ░███████  ░░░█████░  ░███████
+ ░███ ░███ ░███ ░███ ░███ ░███░███ ░███ ░███ ░███  ░███ ███░███░░░    ███░░░███ ░███░░░
+ ████████  ░░████████░░███████░░████████░░██████   ░░█████ ░░██████  █████ █████░░██████
+░░░░░░░░    ░░░░░░░░  ░░░░░███ ░░░░░░░░  ░░░░░░     ░░░░░   ░░░░░░  ░░░░░ ░░░░░  ░░░░░░
+                      ███ ░███
+                     ░░██████
+                      ░░░░░░                                                             
+[+] Make [31mCritical[0m great again
+[1;34m[INFO][0m Starting Intel Gathering: sptpub.com
+[36m
+
+ ** ****     ** ********** ******** **      
+/**/**/**   /**/////**/// /**///// /**      
+/**/**//**  /**    /**    /**      /**      
+/**/** //** /**    /**    /******* /**      
+/**/**  //**/**    /**    /**////  /**      
+/**/**   //****    /**    /**      /**      
+/**/**    //***    /**    /********/********
+// //      ///     //     //////// //////// 
+
+[0m
+[1;32m[SUCCESS][0m Found scopes file: CSGOE/sptpub.com/INTEL/../../wildcard.scopes
+[1;34m[INFO][0m Reading domains from file: CSGOE/sptpub.com/INTEL/../../wildcard.scopes
+[1;32m[SUCCESS][0m Domain:    SPTPUB.COM
+[1;32m[SUCCESS][0m Registrar: GoDaddy.com, LLC
+[1;32m[SUCCESS][0m Company:   SIA Damara Technologies<br><strong>Country:</strong> Latvia
+--------------------------------------------------
+[1;34m[INFO][0m  Reverse WHOIS lookup on whoxy.com for: sptpub.com
+[1;34m[INFO][0m Reverse WHOIS lookup on ViewDNS.info for Company: SIA Damara Technologies<br><strong>Country:</strong> Latvia
+[1;32m[SUCCESS][0m Found 108 unique domains.
+[1;32m[SUCCESS][0m Saved reverse whois results to: CSGOE/sptpub.com/INTEL/reverse.whois
+[1;34m[*] Gathering Intel for: sptpub.com...[0m
+    > SecurityTrails... [1;32mFOUND 2 IPs[0m
+    > Urlscan... [1;32m[SUCCESS][0m Starting Bug Bounty Reconnaissance: sptpub.com
+
+[+] World [31mOFF[0m,Terminal [32mON [0m
+ █████                             █████           █████
+░░███                             ░░███           ░░███
+ ░███████  █████ ████  ███████  ███████   ██████  ███████    ██████  █████ █████  ██████
+ ░███░░███░░███ ░███  ███░░███ ███░░███  ███░░███░░░███░    ███░░███░░███ ░░███  ███░░███
+ ░███ ░███ ░███ ░███ ░███ ░███░███ ░███ ░███ ░███  ░███    ░███████  ░░░█████░  ░███████
+ ░███ ░███ ░███ ░███ ░███ ░███░███ ░███ ░███ ░███  ░███ ███░███░░░    ███░░░███ ░███░░░
+ ████████  ░░████████░░███████░░████████░░██████   ░░█████ ░░██████  █████ █████░░██████
+░░░░░░░░    ░░░░░░░░  ░░░░░███ ░░░░░░░░  ░░░░░░     ░░░░░   ░░░░░░  ░░░░░ ░░░░░  ░░░░░░
+                      ███ ░███
+                     ░░██████
+                      ░░░░░░                                                             
+[+] Make [31mCritical[0m great again
+[1;34m[INFO][0m Starting Intel Gathering: sptpub.com
+[36m
+
+ ** ****     ** ********** ******** **      
+/**/**/**   /**/////**/// /**///// /**      
+/**/**//**  /**    /**    /**      /**      
+/**/** //** /**    /**    /******* /**      
+/**/**  //**/**    /**    /**////  /**      
+/**/**   //****    /**    /**      /**      
+/**/**    //***    /**    /********/********
+// //      ///     //     //////// //////// 
+
+[0m
+[1;32m[SUCCESS][0m Found scopes file: CSGOE/sptpub.com/INTEL/../../wildcard.scopes
+[1;34m[INFO][0m Reading domains from file: CSGOE/sptpub.com/INTEL/../../wildcard.scopes
+[1;32m[SUCCESS][0m Domain:    SPTPUB.COM
+[1;32m[SUCCESS][0m Registrar: GoDaddy.com, LLC
+[1;32m[SUCCESS][0m Company:   SIA Damara Technologies<br><strong>Country:</strong> Latvia
+--------------------------------------------------
+[1;34m[INFO][0m  Reverse WHOIS lookup on whoxy.com for: sptpub.com
+[1;34m[INFO][0m Reverse WHOIS lookup on ViewDNS.info for Company: SIA Damara Technologies<br><strong>Country:</strong> Latvia
+[1;32m[SUCCESS][0m Found 208 unique domains.
+[1;32m[SUCCESS][0m Saved reverse whois results to: CSGOE/sptpub.com/INTEL/reverse.whois
+[1;34m[*] Gathering Intel for: sptpub.com...[0m
+    > SecurityTrails... [1;32mFOUND 2 IPs[0m
+    > Urlscan... [1;33m0 Results[0m
+    > Shodan... [1;32mFOUND 2 IPs[0m
+    > VirusTotal... [1;32mFOUND 2 IPs[0m
+[1;30m    > Total Unique IPs: 6. Starting Turbo Analysis...[0m
+
+[1;32m[+] POTENTIAL ORIGIN:[0m
+    IP:   [1;31m88.208.6.60[0m
+    HOST: [1;35mhelp.sptpub.com[0m
+    CIDR: N/A
+    ORG:  Advanced Hosters B.V.
+    ASN:  AS39572 DataWeb Global Group B.V.
+    SRC:  [1;36mShodan[0m
+---------------------------------------------
+[1;32m[+] POTENTIAL ORIGIN:[0m
+    IP:   [1;31m88.208.6.61[0m
+    HOST: [1;35mwiki.sptpub.com[0m
+    CIDR: N/A
+    ORG:  Advanced Hosters B.V.
+    ASN:  AS39572 DataWeb Global Group B.V.
+    SRC:  [1;36mShodan[0m
+---------------------------------------------
+[1;32m[+] Scanning Finished : Cleaning battlefield[0m
+[1;32m[SUCCESS][0m Intel Gathering Completed: sptpub.com
+[1;34m[INFO][0m Starting OSINT Gathering: sptpub.com
+[36m
+
+       *******    ******** ** ****     ** **********
+  **/////**  **////// /**/**/**   /**/////**/// 
+ **     //**/**       /**/**//**  /**    /**    
+/**      /**/*********/**/** //** /**    /**    
+/**      /**////////**/**/**  //**/**    /**    
+//**     **        /**/**/**   //****    /**    
+ //*******   ******** /**/**    //***    /**    
+  ///////   ////////  // //      ///     //     
+
+[0m
+[1;34m[INFO][0m Processing target Dir: CSGOE
+[1;32m[SUCCESS][0m Found wildcard.scopes found inside the directory!
+[1;34m[INFO][0m Reading domains from file: CSGOE/wildcard.scopes
+[35m------------------------------------------------------[0m
+[1;34m[INFO][0m Targeting: sptpub.com
+[1;34m[INFO][0m Starting Email to Github Username enumeration...
+[33m[*] Searching emails for sptpub.com...(B[m
+[33m[*] Searching GitHub for profiles based on emails...(B[m
+[1;34m[INFO][0m Starting Github Username Prefix enumeration...
+[1;33m[~] Checking: sptpub[0m[1;33m[~] Checking: sptpubcom[0m[1;33m[~] Checking: sptpub-com[0m[1;33m[~] Checking: sptpub-inc[0m[1;33m[~] Checking: sptpub-org[0m[1;33m[~] Checking: sptpub-tech[0m[1;33m[~] Checking: sptpub-labs[0m[1;32m[SUCCESS][0m Starting Bug Bounty Reconnaissance: sptpub.com
+
+[+] World [31mOFF[0m,Terminal [32mON [0m
+ █████                             █████           █████
+░░███                             ░░███           ░░███
+ ░███████  █████ ████  ███████  ███████   ██████  ███████    ██████  █████ █████  ██████
+ ░███░░███░░███ ░███  ███░░███ ███░░███  ███░░███░░░███░    ███░░███░░███ ░░███  ███░░███
+ ░███ ░███ ░███ ░███ ░███ ░███░███ ░███ ░███ ░███  ░███    ░███████  ░░░█████░  ░███████
+ ░███ ░███ ░███ ░███ ░███ ░███░███ ░███ ░███ ░███  ░███ ███░███░░░    ███░░░███ ░███░░░
+ ████████  ░░████████░░███████░░████████░░██████   ░░█████ ░░██████  █████ █████░░██████
+░░░░░░░░    ░░░░░░░░  ░░░░░███ ░░░░░░░░  ░░░░░░     ░░░░░   ░░░░░░  ░░░░░ ░░░░░  ░░░░░░
+                      ███ ░███
+                     ░░██████
+                      ░░░░░░                                                             
+[+] Make [31mCritical[0m great again
+[1;34m[INFO][0m Starting Intel Gathering: sptpub.com
+[36m
+
+ ** ****     ** ********** ******** **      
+/**/**/**   /**/////**/// /**///// /**      
+/**/**//**  /**    /**    /**      /**      
+/**/** //** /**    /**    /******* /**      
+/**/**  //**/**    /**    /**////  /**      
+/**/**   //****    /**    /**      /**      
+/**/**    //***    /**    /********/********
+// //      ///     //     //////// //////// 
+
+[0m
+[1;32m[SUCCESS][0m Found scopes file: CSGOE/sptpub.com/INTEL/../../wildcard.scopes
+[1;34m[INFO][0m Reading domains from file: CSGOE/sptpub.com/INTEL/../../wildcard.scopes
+[1;32m[SUCCESS][0m Domain:    SPTPUB.COM
+[1;32m[SUCCESS][0m Registrar: GoDaddy.com, LLC
+[1;32m[SUCCESS][0m Company:   SIA Damara Technologies<br><strong>Country:</strong> Latvia
+--------------------------------------------------
+[1;34m[INFO][0m  Reverse WHOIS lookup on whoxy.com for: sptpub.com
+[1;34m[INFO][0m Reverse WHOIS lookup on ViewDNS.info for Company: SIA Damara Technologies<br><strong>Country:</strong> Latvia
+[1;32m[SUCCESS][0m Found 230 unique domains.
+[1;32m[SUCCESS][0m Saved reverse whois results to: CSGOE/sptpub.com/INTEL/reverse.whois
+[1;34m[*] Gathering Intel for: sptpub.com...[0m
+    > SecurityTrails... [1;32mFOUND 2 IPs[0m
+    > Urlscan... [1;33m0 Results[0m
+    > Shodan... [1;32mFOUND 2 IPs[0m
+    > VirusTotal... [1;32mFOUND 2 IPs[0m
+[1;30m    > Total Unique IPs: 6. Starting Turbo Analysis...[0m
+
+[1;32m[+] POTENTIAL ORIGIN:[0m
+    IP:   [1;31m88.208.6.60[0m
+    HOST: [1;35mhelp.sptpub.com[0m
+    CIDR: N/A
+    ORG:  Advanced Hosters B.V.
+    ASN:  AS39572 DataWeb Global Group B.V.
+    SRC:  [1;36mShodan[0m
+---------------------------------------------
+[1;32m[+] POTENTIAL ORIGIN:[0m
+    IP:   [1;31m88.208.6.61[0m
+    HOST: [1;35mwiki.sptpub.com[0m
+    CIDR: N/A
+    ORG:  Advanced Hosters B.V.
+    ASN:  AS39572 DataWeb Global Group B.V.
+    SRC:  [1;36mShodan[0m
+---------------------------------------------
+[1;32m[+] Scanning Finished : Cleaning battlefield[0m
+[1;32m[SUCCESS][0m Intel Gathering Completed: sptpub.com
+[1;34m[INFO][0m Starting OSINT Gathering: sptpub.com
+[36m
+
+       *******    ******** ** ****     ** **********
+  **/////**  **////// /**/**/**   /**/////**/// 
+ **     //**/**       /**/**//**  /**    /**    
+/**      /**/*********/**/** //** /**    /**    
+/**      /**////////**/**/**  //**/**    /**    
+//**     **        /**/**/**   //****    /**    
+ //*******   ******** /**/**    //***    /**    
+  ///////   ////////  // //      ///     //     
+
+[0m
+[1;34m[INFO][0m Processing target Dir: CSGOE
+[1;32m[SUCCESS][0m Found wildcard.scopes found inside the directory!
+[1;34m[INFO][0m Reading domains from file: CSGOE/wildcard.scopes
+[35m------------------------------------------------------[0m
+[1;34m[INFO][0m Targeting: sptpub.com
+[1;34m[INFO][0m Starting Email to Github Username enumeration...
+[33m[*] Searching emails for sptpub.com...[m
+[33m[*] Searching GitHub for profiles based on emails...[m
+[1;34m[INFO][0m Starting Github Username Prefix enumeration...
+[1;33m[~] Checking: sptpub[0m[1;33m[~] Checking: sptpubcom[0m[1;33m[~] Checking: sptpub-com[0m[1;33m[~] Checking: sptpub-inc[0m[1;33m[~] Checking: sptpub-org[0m[1;33m[~] Checking: sptpub-tech[0m[1;33m[~] Checking: sptpub-labs[0m[1;33m[~] Checking: sptpub-corp[0m[1;33m[~] Checking: sptpub0x01[0m[1;33m[~] Checking: sptpubio[0m[1;33m[~] Checking: sptpubapp[0m[1;33m[~] Checking: sptpubcloud[0m[1;33m[~] Checking: sptpub-Cash[0m[1;33m[~] Checking: sptpub-protocol[0m[1;33m[~] Checking: sptpub-dao[0m[1;33m[~] Checking: sptpub-pool[0m[1;33m[~] Checking: sptpub-network[0m[1;33m[~] Checking: sptpub-fi[0m[1;33m[~] Checking: sptpubLabs[0m[1;33m[~] Checking: sptpubInc[0m[1;33m[~] Checking: sptpubHQ[0m[1;33m[~] Checking: sptpubOfficial[0m[1;33m[~] Checking: sptpubSecurity[0m[1;33m[~] Checking: sptpub-security[0m[1;33m[~] Checking: sptpub-dev[0m[1;33m[~] Checking: sptpubDev[0m[1;33m[~] Checking: sptpub-team[0m[1;33m[~] Checking: sptpubTeam[0m[1;33m[~] Checking: sptpub-studio[0m[1;33m[~] Checking: sptpubStudio[0m[1;33m[~] Checking: sptpub-solutions[0m[1;33m[~] Checking: sptpubSolutions[0m[1;33m[~] Checking: sptpub-services[0m[1;33m[~] Checking: sptpubServices[0m[1;33m[~] Checking: sptpub-foundation[0m[1;33m[~] Checking: sptpubFoundation[0m[1;33m[~] Checking: sptpub-project[0m[1;33m[~] Checking: sptpubProject[0m[1;33m[~] Checking: sptpub-community[0m[1;33m[~] Checking: sptpubCommunity[0m[1;33m[~] Checking: sptpub-group[0m[1;33m[~] Checking: sptpubGroup[0m[1;33m[~] Checking: sptpub-ventures[0m[1;33m[~] Checking: sptpubVentures[0m[1;33m[~] Checking: sptpub-capital[0m[1;33m[~] Checking: sptpubCapital[0m[1;33m[~] Checking: sptpub-partners[0m[1;33m[~] Checking: sptpubPartners[0m[1;33m[~] Checking: sptpub-global[0m[1;33m[~] Checking: sptpubGlobal[0m[1;33m[~] Checking: sptpub-intl[0m[1;33m[~] Checking: sptpubIntl[0m[1;33m[~] Checking: sptpub-international[0m[1;33m[~] Checking: sptpubInternational[0m[1;33m[~] Checking: sptpub-crypto[0m[1;33m[~] Checking: sptpubCrypto[0m[1;33m[~] Checking: sptpub-finance[0m[1;33m[~] Checking: sptpubFinance[0m[1;33m[~] Checking: sptpub-pay[0m[1;33m[~] Checking: sptpubPay[0m[1;33m[~] Checking: sptpub-wallet[0m[1;33m[~] Checking: sptpubWallet[0m[1;33m[~] Checking: sptpub-data[0m[1;33m[~] Checking: sptpubData[0m[1;33m[~] Checking: sptpub-web[0m[1;33m[~] Checking: sptpubWeb[0m[1;33m[~] Checking: sptpub-mobile[0m[1;33m[~] Checking: sptpubMobile[0m[1;33m[~] Checking: sptpub-platform[0m[1;33m[~] Checking: sptpubPlatform[0m[1;33m[~] Checking: sptpub-infrastructure[0m[1;33m[~] Checking: sptpubInfrastructure[0m[1;33m[~] Checking: sptpub-infra[0m[1;33m[~] Checking: sptpubInfra[0m
+[1;33m[~] Checking: sptpub-capital[0m[1;33m[~] Checking: sptpub-chain[0m[1;33m[~] Checking: sptpub-community[0m[1;33m[~] Checking: sptpub-consulting[0m[1;33m[~] Checking: sptpub-crypto[0m[1;33m[~] Checking: sptpub-data[0m[1;33m[~] Checking: sptpub-design[0m[1;33m[~] Checking: sptpub-exchange[0m[1;33m[~] Checking: sptpub-finance[0m[1;33m[~] Checking: sptpub-foundation[0m[1;33m[~] Checking: sptpub-global[0m[1;33m[~] Checking: sptpub-group[0m[1;33m[~] Checking: sptpub-holdings[0m[1;33m[~] Checking: sptpub-infra[0m[1;33m[~] Checking: sptpub-international[0m[1;33m[~] Checking: sptpub-intl[0m[1;33m[~] Checking: sptpub-mobile[0m[1;33m[~] Checking: sptpub-open-source[0m[1;33m[~] Checking: sptpub-oss[0m[1;33m[~] Checking: sptpub-partners[0m[1;33m[~] Checking: sptpub-pay[0m[1;33m[~] Checking: sptpub-platform[0m[1;33m[~] Checking: sptpub-project[0m[1;33m[~] Checking: sptpub-services[0m[1;33m[~] Checking: sptpub-software[0m[1;33m[~] Checking: sptpub-solutions[0m[1;33m[~] Checking: sptpub-studio[0m[1;33m[~] Checking: sptpub-sys[0m[1;33m[~] Checking: sptpub-systems[0m[1;33m[~] Checking: sptpub-tools[0m[1;33m[~] Checking: sptpub-ventures[0m[1;33m[~] Checking: sptpub-wallet[0m[1;33m[~] Checking: sptpub-web[0m[1;33m[~] Checking: sptpubcapital[0m[1;33m[~] Checking: sptpubchain[0m[1;33m[~] Checking: sptpubcommunity[0m[1;33m[~] Checking: sptpubconsulting[0m[1;33m[~] Checking: sptpubcrypto[0m[1;33m[~] Checking: sptpubdata[0m[1;33m[~] Checking: sptpubdesign[0m[1;33m[~] Checking: sptpubexchange[0m[1;33m[~] Checking: sptpubfinance[0m[1;33m[~] Checking: sptpubfoundation[0m[1;33m[~] Checking: sptpubglobal[0m[1;33m[~] Checking: sptpubgroup[0m[1;33m[~] Checking: sptpubholdings[0m[1;33m[~] Checking: sptpubinfra[0m[1;33m[~] Checking: sptpubinternational[0m[1;33m[~] Checking: sptpubintl[0m[1;33m[~] Checking: sptpubmobile[0m[1;33m[~] Checking: sptpubopen-source[0m[1;33m[~] Checking: sptpuboss[0m[1;33m[~] Checking: sptpubpartners[0m[1;33m[~] Checking: sptpubpay[0m[1;33m[~] Checking: sptpubplatform[0m[1;33m[~] Checking: sptpubproject[0m[1;33m[~] Checking: sptpubservices[0m[1;33m[~] Checking: sptpubsoftware[0m[1;33m[~] Checking: sptpubsolutions[0m[1;33m[~] Checking: sptpubstudio[0m[1;33m[~] Checking: sptpubsys[0m[1;33m[~] Checking: sptpubsystems[0m[1;33m[~] Checking: sptpubtools[0m[1;33m[~] Checking: sptpubventures[0m[1;33m[~] Checking: sptpubwallet[0m[1;33m[~] Checking: sptpubweb[0m[0;31m[-] No confirmed matches found.[0m
+[1;34m[INFO][0m Checking leaked secrets from Github...
+[1;34m[INFO][0m Running Misconfig Mapper for: sptpub

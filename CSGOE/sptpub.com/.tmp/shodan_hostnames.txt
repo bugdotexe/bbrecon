@@ -1,0 +1,2 @@
+88.208.6.60 help.sptpub.com
+88.208.6.61 wiki.sptpub.com

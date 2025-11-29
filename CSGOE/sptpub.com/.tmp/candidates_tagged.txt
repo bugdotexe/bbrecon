@@ -1,0 +1,6 @@
+159.69.41.140|SecurityTrails
+159.69.41.141|SecurityTrails
+88.208.6.60|Shodan
+88.208.6.61|Shodan
+104.18.40.151|VirusTotal
+104.18.41.151|VirusTotal

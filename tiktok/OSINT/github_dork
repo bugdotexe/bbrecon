@@ -1,0 +1,103 @@
+[+] got 2 tokens and 330 dorks
+
+error: https://docs.github.com/rest/overview/rate-limits-for-the-rest-api ; and we need wait 20s
+user:tiktok "AWSSecretKey"  |  (0)  |  https://github.com/search?q=user%3Atiktok+%22AWSSecretKey%22&s=indexed&type=Code&o=desc
+user:tiktok "auth_token"  |  (18)  |  https://github.com/search?q=user%3Atiktok+%22auth_token%22&s=indexed&type=Code&o=desc
+user:tiktok "authorization_bearer"  |  (0)  |  https://github.com/search?q=user%3Atiktok+%22authorization_bearer%22&s=indexed&type=Code&o=desc
+user:tiktok "aws_access_key_id"  |  (0)  |  https://github.com/search?q=user%3Atiktok+%22aws_access_key_id%22&s=indexed&type=Code&o=desc
+user:tiktok "aws_secret_access_key"  |  (0)  |  https://github.com/search?q=user%3Atiktok+%22aws_secret_access_key%22&s=indexed&type=Code&o=desc
+user:tiktok "bashrc password"  |  (0)  |  https://github.com/search?q=user%3Atiktok+%22bashrc+password%22&s=indexed&type=Code&o=desc
+user:tiktok "client_secret"  |  (27)  |  https://github.com/search?q=user%3Atiktok+%22client_secret%22&s=indexed&type=Code&o=desc
+user:tiktok "connectionstring"  |  (0)  |  https://github.com/search?q=user%3Atiktok+%22connectionstring%22&s=indexed&type=Code&o=desc
+user:tiktok "db_password"  |  (0)  |  https://github.com/search?q=user%3Atiktok+%22db_password%22&s=indexed&type=Code&o=desc
+user:tiktok "db_username"  |  (0)  |  https://github.com/search?q=user%3Atiktok+%22db_username%22&s=indexed&type=Code&o=desc
+user:tiktok "heroku_api_key"  |  (0)  |  https://github.com/search?q=user%3Atiktok+%22heroku_api_key%22&s=indexed&type=Code&o=desc
+user:tiktok "id_rsa"  |  (0)  |  https://github.com/search?q=user%3Atiktok+%22id_rsa%22&s=indexed&type=Code&o=desc
+user:tiktok "irc_pass"  |  (0)  |  https://github.com/search?q=user%3Atiktok+%22irc_pass%22&s=indexed&type=Code&o=desc
+user:tiktok "pgpass"  |  (0)  |  https://github.com/search?q=user%3Atiktok+%22pgpass%22&s=indexed&type=Code&o=desc
+user:tiktok "private_key"  |  (0)  |  https://github.com/search?q=user%3Atiktok+%22private_key%22&s=indexed&type=Code&o=desc
+user:tiktok "root_password"  |  (0)  |  https://github.com/search?q=user%3Atiktok+%22root_password%22&s=indexed&type=Code&o=desc
+user:tiktok "secret_access_key"  |  (0)  |  https://github.com/search?q=user%3Atiktok+%22secret_access_key%22&s=indexed&type=Code&o=desc
+user:tiktok "secret_key"  |  (2)  |  https://github.com/search?q=user%3Atiktok+%22secret_key%22&s=indexed&type=Code&o=desc
+user:tiktok "secret_token"  |  (0)  |  https://github.com/search?q=user%3Atiktok+%22secret_token%22&s=indexed&type=Code&o=desc
+user:tiktok "slack_api"  |  (0)  |  https://github.com/search?q=user%3Atiktok+%22slack_api%22&s=indexed&type=Code&o=desc
+user:tiktok "slack_token"  |  (0)  |  https://github.com/search?q=user%3Atiktok+%22slack_token%22&s=indexed&type=Code&o=desc
+user:tiktok "sql_password"  |  (0)  |  https://github.com/search?q=user%3Atiktok+%22sql_password%22&s=indexed&type=Code&o=desc
+user:tiktok "ssh_key"  |  (0)  |  https://github.com/search?q=user%3Atiktok+%22ssh_key%22&s=indexed&type=Code&o=desc
+user:tiktok "sshpass"  |  (0)  |  https://github.com/search?q=user%3Atiktok+%22sshpass%22&s=indexed&type=Code&o=desc
+user:tiktok "stripe_key"  |  (0)  |  https://github.com/search?q=user%3Atiktok+%22stripe_key%22&s=indexed&type=Code&o=desc
+user:tiktok "stripe_secret"  |  (0)  |  https://github.com/search?q=user%3Atiktok+%22stripe_secret%22&s=indexed&type=Code&o=desc
+user:tiktok "x-api-key"  |  (0)  |  https://github.com/search?q=user%3Atiktok+%22x-api-key%22&s=indexed&type=Code&o=desc
+user:tiktok "xoxb"  |  (0)  |  https://github.com/search?q=user%3Atiktok+%22xoxb%22&s=indexed&type=Code&o=desc
+user:tiktok "xoxp"  |  (0)  |  https://github.com/search?q=user%3Atiktok+%22xoxp%22&s=indexed&type=Code&o=desc
+user:tiktok .npmrc _auth  |  (8)  |  https://github.com/search?q=user%3Atiktok+.npmrc+_auth&s=indexed&type=Code&o=desc
+user:tiktok .s3cfg  |  (0)  |  https://github.com/search?q=user%3Atiktok+.s3cfg&s=indexed&type=Code&o=desc
+user:tiktok API_KEY  |  (6)  |  https://github.com/search?q=user%3Atiktok+API_KEY&s=indexed&type=Code&o=desc
+user:tiktok AWS_KEY  |  (0)  |  https://github.com/search?q=user%3Atiktok+AWS_KEY&s=indexed&type=Code&o=desc
+user:tiktok AWS_SECRET  |  (0)  |  https://github.com/search?q=user%3Atiktok+AWS_SECRET&s=indexed&type=Code&o=desc
+user:tiktok AWS_TOKEN  |  (0)  |  https://github.com/search?q=user%3Atiktok+AWS_TOKEN&s=indexed&type=Code&o=desc
+user:tiktok BITBUCKET_CLIENT_SECRET  |  (0)  |  https://github.com/search?q=user%3Atiktok+BITBUCKET_CLIENT_SECRET&s=indexed&type=Code&o=desc
+user:tiktok CONSUMER_KEY  |  (1)  |  https://github.com/search?q=user%3Atiktok+CONSUMER_KEY&s=indexed&type=Code&o=desc
+user:tiktok CONSUMER_SECRET  |  (0)  |  https://github.com/search?q=user%3Atiktok+CONSUMER_SECRET&s=indexed&type=Code&o=desc
+user:tiktok DATADOG_API_KEY  |  (0)  |  https://github.com/search?q=user%3Atiktok+DATADOG_API_KEY&s=indexed&type=Code&o=desc
+user:tiktok DB_PASSWORD  |  (0)  |  https://github.com/search?q=user%3Atiktok+DB_PASSWORD&s=indexed&type=Code&o=desc
+user:tiktok DB_USERNAME  |  (0)  |  https://github.com/search?q=user%3Atiktok+DB_USERNAME&s=indexed&type=Code&o=desc
+user:tiktok DOCKER_AUTH  |  (0)  |  https://github.com/search?q=user%3Atiktok+DOCKER_AUTH&s=indexed&type=Code&o=desc
+user:tiktok DOCKER_PASSWORD  |  (0)  |  https://github.com/search?q=user%3Atiktok+DOCKER_PASSWORD&s=indexed&type=Code&o=desc
+user:tiktok FACEBOOK_SECRET  |  (0)  |  https://github.com/search?q=user%3Atiktok+FACEBOOK_SECRET&s=indexed&type=Code&o=desc
+user:tiktok FIREBASE_API_JSON  |  (0)  |  https://github.com/search?q=user%3Atiktok+FIREBASE_API_JSON&s=indexed&type=Code&o=desc
+user:tiktok GCP_SECRET  |  (0)  |  https://github.com/search?q=user%3Atiktok+GCP_SECRET&s=indexed&type=Code&o=desc
+user:tiktok GITHUB_TOKEN  |  (4)  |  https://github.com/search?q=user%3Atiktok+GITHUB_TOKEN&s=indexed&type=Code&o=desc
+user:tiktok GOOGLE_CLIENT_SECRET  |  (0)  |  https://github.com/search?q=user%3Atiktok+GOOGLE_CLIENT_SECRET&s=indexed&type=Code&o=desc
+user:tiktok HEROKU_API_KEY  |  (0)  |  https://github.com/search?q=user%3Atiktok+HEROKU_API_KEY&s=indexed&type=Code&o=desc
+user:tiktok HEROKU_OAUTH_SECRET  |  (0)  |  https://github.com/search?q=user%3Atiktok+HEROKU_OAUTH_SECRET&s=indexed&type=Code&o=desc
+user:tiktok HOMEBREW_GITHUB_API_TOKEN  |  (0)  |  https://github.com/search?q=user%3Atiktok+HOMEBREW_GITHUB_API_TOKEN&s=indexed&type=Code&o=desc
+user:tiktok JEKYLL_GITHUB_TOKEN  |  (0)  |  https://github.com/search?q=user%3Atiktok+JEKYLL_GITHUB_TOKEN&s=indexed&type=Code&o=desc
+user:tiktok MAILGUN_API_KEY  |  (0)  |  https://github.com/search?q=user%3Atiktok+MAILGUN_API_KEY&s=indexed&type=Code&o=desc
+user:tiktok MONGODB_URI  |  (0)  |  https://github.com/search?q=user%3Atiktok+MONGODB_URI&s=indexed&type=Code&o=desc
+user:tiktok NPM_TOKEN  |  (2)  |  https://github.com/search?q=user%3Atiktok+NPM_TOKEN&s=indexed&type=Code&o=desc
+user:tiktok OSS_ACCESS_KEY_ID  |  (0)  |  https://github.com/search?q=user%3Atiktok+OSS_ACCESS_KEY_ID&s=indexed&type=Code&o=desc
+user:tiktok OSS_ACCESS_KEY_SECRET  |  (0)  |  https://github.com/search?q=user%3Atiktok+OSS_ACCESS_KEY_SECRET&s=indexed&type=Code&o=desc
+user:tiktok POSTGRES_PASSWORD  |  (0)  |  https://github.com/search?q=user%3Atiktok+POSTGRES_PASSWORD&s=indexed&type=Code&o=desc
+user:tiktok PRIVATE_KEY  |  (0)  |  https://github.com/search?q=user%3Atiktok+PRIVATE_KEY&s=indexed&type=Code&o=desc
+user:tiktok PT_TOKEN  |  (2)  |  https://github.com/search?q=user%3Atiktok+PT_TOKEN&s=indexed&type=Code&o=desc
+user:tiktok REDIS_PASSWORD  |  (0)  |  https://github.com/search?q=user%3Atiktok+REDIS_PASSWORD&s=indexed&type=Code&o=desc
+user:tiktok ROOT_PASSWORD  |  (0)  |  https://github.com/search?q=user%3Atiktok+ROOT_PASSWORD&s=indexed&type=Code&o=desc
+user:tiktok SECRET_KEY_BASE  |  (0)  |  https://github.com/search?q=user%3Atiktok+SECRET_KEY_BASE&s=indexed&type=Code&o=desc
+user:tiktok SENDGRID_API_KEY  |  (0)  |  https://github.com/search?q=user%3Atiktok+SENDGRID_API_KEY&s=indexed&type=Code&o=desc
+user:tiktok SF_USERNAME salesforce  |  (0)  |  https://github.com/search?q=user%3Atiktok+SF_USERNAME+salesforce&s=indexed&type=Code&o=desc
+user:tiktok SLACK_BOT_TOKEN  |  (0)  |  https://github.com/search?q=user%3Atiktok+SLACK_BOT_TOKEN&s=indexed&type=Code&o=desc
+user:tiktok SLACK_WEBHOOK_URL  |  (0)  |  https://github.com/search?q=user%3Atiktok+SLACK_WEBHOOK_URL&s=indexed&type=Code&o=desc
+user:tiktok STRIPE_SECRET_KEY  |  (0)  |  https://github.com/search?q=user%3Atiktok+STRIPE_SECRET_KEY&s=indexed&type=Code&o=desc
+user:tiktok TWILIO_ACCOUNT_SID  |  (0)  |  https://github.com/search?q=user%3Atiktok+TWILIO_ACCOUNT_SID&s=indexed&type=Code&o=desc
+user:tiktok TWILIO_API_KEY  |  (0)  |  https://github.com/search?q=user%3Atiktok+TWILIO_API_KEY&s=indexed&type=Code&o=desc
+user:tiktok TWILIO_API_SECRET  |  (0)  |  https://github.com/search?q=user%3Atiktok+TWILIO_API_SECRET&s=indexed&type=Code&o=desc
+user:tiktok TWILIO_AUTH_TOKEN  |  (0)  |  https://github.com/search?q=user%3Atiktok+TWILIO_AUTH_TOKEN&s=indexed&type=Code&o=desc
+user:tiktok WORDPRESS_DB_PASSWORD  |  (0)  |  https://github.com/search?q=user%3Atiktok+WORDPRESS_DB_PASSWORD&s=indexed&type=Code&o=desc
+user:tiktok access_key  |  (0)  |  https://github.com/search?q=user%3Atiktok+access_key&s=indexed&type=Code&o=desc
+user:tiktok access_token  |  (114)  |  https://github.com/search?q=user%3Atiktok+access_token&s=indexed&type=Code&o=desc
+user:tiktok algolia_api_key  |  (0)  |  https://github.com/search?q=user%3Atiktok+algolia_api_key&s=indexed&type=Code&o=desc
+user:tiktok alicloud_access_key  |  (0)  |  https://github.com/search?q=user%3Atiktok+alicloud_access_key&s=indexed&type=Code&o=desc
+user:tiktok amazon_secret_access_key  |  (0)  |  https://github.com/search?q=user%3Atiktok+amazon_secret_access_key&s=indexed&type=Code&o=desc
+user:tiktok ansible_vault_password  |  (0)  |  https://github.com/search?q=user%3Atiktok+ansible_vault_password&s=indexed&type=Code&o=desc
+user:tiktok api.googlemaps AIza  |  (0)  |  https://github.com/search?q=user%3Atiktok+api.googlemaps+AIza&s=indexed&type=Code&o=desc
+user:tiktok api_key  |  (6)  |  https://github.com/search?q=user%3Atiktok+api_key&s=indexed&type=Code&o=desc
+user:tiktok api_secret  |  (0)  |  https://github.com/search?q=user%3Atiktok+api_secret&s=indexed&type=Code&o=desc
+user:tiktok apikey  |  (33)  |  https://github.com/search?q=user%3Atiktok+apikey&s=indexed&type=Code&o=desc
+user:tiktok app_key  |  (0)  |  https://github.com/search?q=user%3Atiktok+app_key&s=indexed&type=Code&o=desc
+user:tiktok app_secret  |  (0)  |  https://github.com/search?q=user%3Atiktok+app_secret&s=indexed&type=Code&o=desc
+user:tiktok appkey  |  (1)  |  https://github.com/search?q=user%3Atiktok+appkey&s=indexed&type=Code&o=desc
+user:tiktok application_key  |  (0)  |  https://github.com/search?q=user%3Atiktok+application_key&s=indexed&type=Code&o=desc
+user:tiktok auth_token  |  (18)  |  https://github.com/search?q=user%3Atiktok+auth_token&s=indexed&type=Code&o=desc
+user:tiktok aws_token  |  (0)  |  https://github.com/search?q=user%3Atiktok+aws_token&s=indexed&type=Code&o=desc
+user:tiktok b2_app_key  |  (0)  |  https://github.com/search?q=user%3Atiktok+b2_app_key&s=indexed&type=Code&o=desc
+user:tiktok bash_history  |  (0)  |  https://github.com/search?q=user%3Atiktok+bash_history&s=indexed&type=Code&o=desc
+user:tiktok bash_profile aws  |  (0)  |  https://github.com/search?q=user%3Atiktok+bash_profile+aws&s=indexed&type=Code&o=desc
+user:tiktok bintray_apikey  |  (0)  |  https://github.com/search?q=user%3Atiktok+bintray_apikey&s=indexed&type=Code&o=desc
+user:tiktok bucket_password  |  (0)  |  https://github.com/search?q=user%3Atiktok+bucket_password&s=indexed&type=Code&o=desc
+user:tiktok bucketeer_aws_access_key_id  |  (0)  |  https://github.com/search?q=user%3Atiktok+bucketeer_aws_access_key_id&s=indexed&type=Code&o=desc
+user:tiktok bucketeer_aws_secret_access_key  |  (0)  |  https://github.com/search?q=user%3Atiktok+bucketeer_aws_secret_access_key&s=indexed&type=Code&o=desc
+user:tiktok clojars_password  |  (0)  |  https://github.com/search?q=user%3Atiktok+clojars_password&s=indexed&type=Code&o=desc
+user:tiktok cloud_api_key  |  (0)  |  https://github.com/search?q=user%3Atiktok+cloud_api_key&s=indexed&type=Code&o=desc
+user:tiktok cloudflare_api_key  |  (0)  |  https://github.com/search?q=user%3Atiktok+cloudflare_api_key&s=indexed&type=Code&o=desc
+Too many errors, auto stop
